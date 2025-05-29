@@ -7,10 +7,10 @@ NOTE: change this file name from credentials.example.php to credentials.php
 
 error_reporting(0);
 
-$databaseHost = "localhost";
-$databaseUsername = "root";
-$databasePassword = "";
-$databaseName = "main";
+$databaseHost = "mysql.db.bot-hosting.net";
+$databaseUsername = "u408059_4zA5cRx9Mf";
+$databasePassword = "VmCbPppv+=XyIHfY5o=8kdct";
+$databaseName = "s408059_dasdas";
 
 $mysqlRequireSSL = false; // in case the MySQL server requires SSL
 
